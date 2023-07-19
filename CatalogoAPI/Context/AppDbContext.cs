@@ -1,8 +1,8 @@
-﻿using CatalogoAPI.CatalogoAPI.Models;
+﻿using CatalogoAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace CatalogoAPI.CatalogoAPI.Context;
+namespace CatalogoAPI.Context;
 public class AppDbContext : DbContext
 {
     //
