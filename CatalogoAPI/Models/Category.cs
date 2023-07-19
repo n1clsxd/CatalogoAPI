@@ -1,4 +1,4 @@
-﻿namespace CatalogoAPI.Models;
+﻿namespace CatalogoAPI.CatalogoAPI.Models;
 
 public class Category
 {

@@ -1,4 +1,4 @@
-using CatalogoAPI.Context;
+using CatalogoAPI.CatalogoAPI.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
