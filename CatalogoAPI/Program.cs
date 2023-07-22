@@ -1,4 +1,4 @@
-using CatalogoAPI.CatalogoAPI.Context;
+using CatalogoAPI.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -29,4 +29,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+app.Run();   
